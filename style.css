@@ -1,0 +1,108 @@
+ body{
+    background: black;
+    /* padding: 200px; */
+ }
+ .container{
+    /* margin: 0; */
+    padding: 50px;
+    margin-top: 120px;
+    box-sizing: border-box;
+    background-color: black;
+    display: flex;
+    background-color:#004526;
+    color: white;
+    
+}
+.container-1{
+    padding-left: 40px;
+font-family: Lobster;
+
+}
+.container-2{
+    display: flex;
+    column-gap: 60px;
+    padding-left: 90px;
+    /* justify-content: space-between; */
+    /* margin-right: 150px; */
+    /* display: grid; */
+    /* grid-template-columns: repeat(3,200px); */
+    font-size: 12px;
+    
+}
+.child-1{
+    /* color: white; */
+}
+.btn{
+    border: 1px solid white;
+    border-radius:20px;
+    margin: 5px;
+    width: 340px;
+    color: white;
+    font-size: 12px;
+    text-align: start;
+
+}
+
+.btn1{
+    border: 1px solid white;
+    border-radius:20px;
+    margin: 5px;
+    width: 340px;
+    color: black;
+    font-size: 10px;
+    padding: 5px;
+    position: relative;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.child-2{
+position: absolute;
+
+/* margin-right: 20px; */
+/* background: red; */
+
+}
+.btns{
+    font-weight: bold;
+    width: 80px;
+    padding: 4px;
+margin-left: 73px;
+margin-top: 30px;
+background-color:#cc0000;
+font-size: 18px;
+border-radius: 5px;
+border: 2px solid#cc0000;
+
+}
+.one{
+    padding: 5px;
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+letter-spacing: 3px;
+font-family: Josefin Sans;
+}
+p{
+    padding-left: 6px;
+}
+span{
+    font-family: Nothing You Could Do;
+
+}
+.main{
+    background-color: #004526;
+    margin: 50px;
+    color: white;
+}
+.last{
+display: flex;
+justify-content: space-around;
+}
+.avec{
+    padding-right: 500px;
+    font-size: 10px;
+    
+}
+.site{
+    /* padding-right: 500px; */
+    font-size: 10px;
+
+}
